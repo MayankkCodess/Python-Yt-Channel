@@ -33,3 +33,4 @@ print(bool(b));
 
 a = 12; 
 print(type(12/3)); 
+
