@@ -1,4 +1,4 @@
-Correct Order to Prepare Python in this Repository is - 
+Correct Order to Prepare Python from this Repository is - 
 1. CommentsVariables
 2. DataTypes 
 3. StringsAndTypeConversion 
